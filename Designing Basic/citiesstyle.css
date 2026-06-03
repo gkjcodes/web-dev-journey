@@ -1,0 +1,40 @@
+#containermaster {
+    display: flex;
+}
+#container {
+    text-align: center;
+    font-size: 30px;
+    width: 75%;
+    background-color: rgb(141, 141, 141);
+    margin: 0 0 0 0;
+    padding : 0 0 0 0;
+}
+#container2 {
+    width: 50%;
+    margin: 0 0 0 0;
+}
+#container3 {
+    width: 25%;
+    margin: 0 0 0 0;
+    padding: 20px 0 0 0;
+    background-color: rgb(187, 182, 182);
+}
+h1 {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+#container4{
+
+    font: arial;
+    text-align: center;
+    width: 75%;
+    background-color: rgb(141, 141, 141);
+    margin: 0 0 0 0;
+    padding: 20px 0 20px 0;
+}
+h3{
+    font-size: 15px;
+    color: white;
+    margin: 0 0 0 0;
+    
+}
