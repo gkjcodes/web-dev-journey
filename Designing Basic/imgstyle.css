@@ -1,0 +1,17 @@
+body{
+    background-image: url("Tower-Bridge-River-Thames-London.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button{
+    background-image: linear-gradient(to right, rgb(81, 187, 225), rgb(15, 112, 223));
+}
+button:hover{
+    background-image: linear-gradient(to right, rgb(12, 24, 238), rgb(11, 44, 231));
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
