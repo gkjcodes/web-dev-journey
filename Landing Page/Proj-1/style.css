@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+nav{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(212, 251, 249);
+}
+.menu{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding-right: 15%;
+}
+a{
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(244, 159, 216);
+}
+a:hover{
+    color: #4b8e0c;
+}
+.logo{
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(92, 11, 76);
+    padding-left: 15%;
+}
+.main{
+    
+    background-image: url(images/intro-bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.content{
+    padding-top: 250px;
+    padding-bottom: 200px;
+    align-items: center;
+    text-align: center;
+    color: rgb(99, 53, 186);
+}
+.land{
+    font-size: 82px;
+    margin: bottom -15px;
+}
+.btn{
+    font-size: 15px;
+    color: white;
+    padding: 10px 30px ;
+    border-radius: 30px;
+    background-image: linear-gradient(to right, rgb(95, 186, 234), rgb(55, 55, 203));
+    border : 0px;
+}
+.btn:hover{
+    background-image: linear-gradient(to bottom, rgb(4, 0, 255), rgb(0, 17, 255));
+}
+p{
+    font-size: 22px;
+}
+.img1{
+    border-image: round;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.wrap{
+    margin: 5px 10%;
+    align-items: center;
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    color: rgb(119, 119, 119);
+
+}
+h3{
+    margin-bottom: 10px;
+    color: black;
+    font-size: 25px;
+}
+#color{
+    background-color: #f7f7f7;
+    padding: 5px;
+}
+.wrapp{
+    display: flex;
+    padding: 100px 0;
+    gap: 40px;
+    margin: 0 15%;
+}
+.ul{
+    display: flex;
+    gap: 200px;
+}
