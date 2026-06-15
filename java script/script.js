@@ -65,6 +65,20 @@ console.log("Institute:"+institute);
 console.log("====================");
 
 
+let mobile_Phone = {
+    Name: "Iphone 14 Pro Max",
+    Price: "Rs:- 1,50,999/-",
+    Ram: "8 GB",
+    Storage: "128 GB/256 GB/512 GB",
+    Protection: "IP 58 + Gorilla Glass 5",
+    AppleCare: "1 YEAR APPLE CARE FREE"
+
+}
+console.log(typeof(mobile_Phone));
+
+console.log(mobile_Phone);
+
+
 
 
 
